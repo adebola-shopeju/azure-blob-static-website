@@ -43,11 +43,11 @@ Azure handles availability, scaling, and HTTPS automatically.
 
 ## Screenshots
 
-![Storage Account Overview](storage-account-overview.png)
-![Static Website Enabled](static-website-enabled.png)
-![Web Container Contents](web-container-contents.png)
-![Live Site](live-site-browser.png)
-![404 Error Page](404-error-page.png)
+![Storage Account Overview](screenshots/storage-account-overview.png)
+![Static Website Enabled](screenshots/static-website-enabled.png)
+![Web Container Contents](screenshots/web-container-contents.png)
+![Live Site](screenshots/live-site-browser.png)
+![404 Error Page](screenshots/404-error-page.png)
 ## Files
 | File | Purpose |
 |------|---------|
